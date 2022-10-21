@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "West Indies vs Scotland, 3rd Match, Group B, ICC Mens T20 WC 2022 - Cricbuzz",
+            "description": "Get Live Cricket Score, Scorecard, Schedules of International and Domestic cricket matches along with Latest News, Videos and ICC Cricket Rankings of Players on Cricbuzz.",
+            "url": "https://www.cricbuzz.com/live-cricket-scores/42996/wi-vs-sco-3rd-match-group-b-icc-mens-t20-world-cup-2022",
+            "urlToImage": null,
+            "publishedAt": "2022-10-17T04:31:44Z",
+            "content": "15:40 Local Time, 04:40 GMT, 10:10 IST: Still a fair distance from losing overs, so sit tight and switch tabs as India bat first against Australia in the Warm-up clash in Brisbane.\r\n As we continue t… [+3955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Cricketnext Staff",
+            "title": "IND vs AUS Live Cricket Score, T20 World Cup 2022 Warm-up Match: KL Rahul off to a Blazing Start - News18",
+            "description": "T20 World Cup 2022 India vs Australia warm-up match Live Updates: Get the updates of the T20 World Cup warm-up match between India vs Australia Live Match at the Gabba, Brisbane",
+            "url": "https://www.news18.com/cricketnext/news/india-vs-australia-live-cricket-score-t20-world-cup-2022-warm-up-match-ind-vs-aus-match-today-live-streaming-latest-scorecard-gabba-brisbane-live-news-livenews-6179107.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/10/t20-world-cup-2022-india-vs-australia-warm-up-match-live-updates-166597448516x9.jpg",
+            "publishedAt": "2022-10-17T04:27:52Z",
+            "content": "Sharma and his boys have already played a couple of practice games against Western Australia, winning one out of the two. And now, they are set to take on the reigning world champions and have the fe… [+1773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Team India in group of death?: What SL's shock loss could mean for IND in T20WC - Hindustan Times",
+            "description": "Namibia, which is ranked 14th in the ICC rankings, stunned newly-crowned Asia Cup winners and 2014 champions, Sri Lanka by 55 runs in the tournament opener. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/team-india-in-group-of-death-what-sri-lanka-s-shock-defeat-to-namibia-could-mean-for-rohit-sharma-led-side-in-t20-world-cup-101665945017226.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/10/16/1600x900/New_Project_-_2022-10-17T000211042_1665945246068_1665945246286_1665945246286.jpg",
+            "publishedAt": "2022-10-17T01:40:30Z",
+            "content": "When the 2022 T20 World Cup had begun on Sunday at the Kardinia Park in Geelong, little did one expect the tournament to kick off with an early upset. Sri Lanka and West Indies were the overwhelming … [+1667 chars]"
+        }
+    ]
+}
